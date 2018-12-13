@@ -1,0 +1,28 @@
+body {
+	background-color: #a6e3ea;
+	text-align: center;
+}
+.button {
+  background-color: #4568d4;
+  border: none;
+  color: white;
+  padding: 20px 35px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+.button:hover {
+	background: #e36566;
+	color: white;
+}
+.footer {
+	background-color: #fcddf8;
+	color: black;
+	padding: 20px;
+	text-align: center;
+	display: grid;
+	grid-gap: 0px;
+	grid-template-columns: repeat(4,1fr);
+}

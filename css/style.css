@@ -1,0 +1,28 @@
+body {
+	text-align: left;
+	background-image: url(../images/2.jpeg);
+	font-family: Cambria;
+	font-size: 20px;
+}
+.qwerty {
+	background: #fcddf8;
+	width: 400px;
+	height: 400px;
+	padding: 40px;
+	color: black;
+	margin: 0 auto;
+	margin-top: 100px;
+	text-align: center;
+}
+.qwerty1 {
+	border-radius: 5%;
+	height: 200px;
+	width: 200px;
+	}
+	
+p {
+	text-align: left;
+}
+h3 {
+	color: yellow;
+}

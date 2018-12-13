@@ -1,0 +1,80 @@
+html {
+  scroll-behavior: smooth;
+}
+body {
+	text-align: left;
+	font-family: Cambria;
+	font-size: 20px;
+	background: #f2f2f2;
+}
+h1 {
+	text-align: center;
+}
+
+.qwerty1 {
+	background:#a6e3ea;
+	padding: 50px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	display: grid;
+	grid-gap: 0px;
+	grid-template-columns: 1fr 1fr;
+}
+.qwerty3 {
+	background:#a6e3ea;
+	padding: 50px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	text-align: center;
+}
+.qwerty4 {
+	background:#a6e3ea;
+	padding: 50px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	text-align: left;
+}
+.button {
+  background-color: #4568d4;
+  border: none;
+  color: white;
+  padding: 20px 35px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+.button:hover {
+	background: #e36566;
+	color: white;
+}
+.footer {
+	background-color: #a6e3ea;
+	color: black;
+	padding: 20px;
+	text-align: center;
+	display: grid;
+	grid-gap: 0px;
+	grid-template-columns: repeat(4,1fr);
+}
+.button1 {
+	display: grid;
+	grid-gap: 0px;
+	grid-template-columns: 1fr 1fr 1fr;
+	text-align: center;
+}
+.button2 {
+	background-color: #4568d4;
+  border: none;
+  color: white;
+  padding: 20px 35px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+.button2:hover {
+	background: #e36566;
+	color: white;
+}
